@@ -180,7 +180,7 @@ Partial Class Form1
         Me.TextBox4.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox4.Location = New System.Drawing.Point(162, 244)
         Me.TextBox4.Name = "TextBox4"
-        Me.TextBox4.Size = New System.Drawing.Size(149, 26)
+        Me.TextBox4.Size = New System.Drawing.Size(251, 26)
         Me.TextBox4.TabIndex = 5
         Me.TextBox4.Text = "0.00"
         Me.TextBox4.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
