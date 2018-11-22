@@ -103,7 +103,7 @@ Partial Class Form1
         Me.TextBox2.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox2.Location = New System.Drawing.Point(162, 193)
         Me.TextBox2.Name = "TextBox2"
-        Me.TextBox2.Size = New System.Drawing.Size(100, 26)
+        Me.TextBox2.Size = New System.Drawing.Size(222, 26)
         Me.TextBox2.TabIndex = 15
         Me.TextBox2.Text = "My Rate"
         Me.TextBox2.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
@@ -180,7 +180,7 @@ Partial Class Form1
         Me.TextBox4.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox4.Location = New System.Drawing.Point(162, 244)
         Me.TextBox4.Name = "TextBox4"
-        Me.TextBox4.Size = New System.Drawing.Size(251, 26)
+        Me.TextBox4.Size = New System.Drawing.Size(321, 26)
         Me.TextBox4.TabIndex = 5
         Me.TextBox4.Text = "0.00"
         Me.TextBox4.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
