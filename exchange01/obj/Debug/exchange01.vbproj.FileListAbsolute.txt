@@ -1,0 +1,11 @@
+c:\users\asus\documents\visual studio 2015\Projects\exchange01\exchange01\obj\Debug\exchange01.vbproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\exchange01\exchange01\obj\Debug\exchange01.vbprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\exchange01\exchange01\bin\Debug\exchange.exe.config
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\exchange01\exchange01\bin\Debug\exchange.exe
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\exchange01\exchange01\bin\Debug\exchange.pdb
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\exchange01\exchange01\bin\Debug\exchange.xml
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\exchange01\exchange01\obj\Debug\exchange.Form1.resources
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\exchange01\exchange01\obj\Debug\exchange.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\exchange01\exchange01\obj\Debug\exchange.exe
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\exchange01\exchange01\obj\Debug\exchange.xml
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\exchange01\exchange01\obj\Debug\exchange.pdb
